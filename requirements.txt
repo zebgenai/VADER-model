@@ -3,3 +3,5 @@ pandas
 matplotlib
 seaborn
 vaderSentiment
+transformers
+torch
